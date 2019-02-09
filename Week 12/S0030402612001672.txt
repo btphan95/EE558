@@ -1,0 +1,11 @@
+Farah Diana Mahad, Abu Sahmah M. Supa’at, Sevia Mahdaliza Idrus, David Forsyth,
+Comparative performance testing of SOA wavelength conversion techniques for future all-optical systems,
+Optik,
+Volume 124, Issue 12,
+2013,
+Pages 1254-1259,
+ISSN 0030-4026,
+https://doi.org/10.1016/j.ijleo.2012.03.002.
+(http://www.sciencedirect.com/science/article/pii/S0030402612001672)
+Abstract: Wavelength conversion employing semiconductor optical amplifiers (SOAs) is currently one of the most attractive and promising wavelength conversion techniques for future all-optical systems. This paper investigates the comparative performances of the three most popular SOA wavelength conversion techniques; cross-gain modulation (XGM), cross-phase modulation (XPM) and four-wave mixing (FWM). The FWM wavelength converter is analyzed for two types of source; a CW and a novel spectrum-sliced source. All performances are analyzed in terms of shifted wavelength conversion efficiency, Q-factors and converted signal powers. The converters are modeled and simulated using OptSim software. It was found that XGM yields the highest conversion efficiency of 17dB, followed by XPM having 9dB. The FWM wavelength converter had the lowest conversion efficiency, around −0.7dB and −5.0dB for CW and spectrum-sliced sources respectively.
+Keywords: Semiconductor optical amplifier; Wavelength conversion; Four-wave mixing; Cross-phase modulation; Cross-gain modulation
